@@ -26,7 +26,7 @@
 <br>
 
   <b>Get Your Battery Notifier
-  <a href="https://www.github.com/SinhaAnishKumar/BatNotify/releases"> Now.✨</a></b><br>
+  <a href="https://github.com/SinhaAnishKumar/BatNotify/releases"> Now.✨</a></b><br>
 <b>This progam is coded for Windows OS only</b>
 <br>
 <br>
