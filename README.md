@@ -1,4 +1,4 @@
-# BatNotify
+# BatLife
 
 <h1 align="center">
   Thank you for being here!✨
@@ -6,7 +6,7 @@
 
 <p align="center">
   This repository contains <code><b>Battery Notifier Application</b></code>.🤓
-  <br><code><b>BatNotify</b></code> has been created as a simple <code><b>Visual Basic</b></code> script which can be used to get you notified when your Laptop's battery level reaches fully charged.
+  <br><code><b>BatLife</b></code> has been created as a simple <code><b>Visual Basic</b></code> script which can be used to get you notified when your Laptop's battery level reaches fully charged.
 
 </p>
 <br>
@@ -26,7 +26,7 @@
 <br>
 
   <b>Get Your Battery Notifier
-  <a href="https://github.com/SinhaAnishKumar/BatNotify/releases"> Now.✨</a></b><br>
+  <a href="https://github.com/SinhaAnishKumar/BatLife/releases"> Now.✨</a></b><br>
 <b>This progam is coded for Windows OS only</b>
 <br>
 <br>
@@ -37,7 +37,7 @@ Download this awesome program by following instructions mentioned below. 👇
 <br>
 <b>Step 1 :-</b>
 <br>
-Go to<a href="https://github.com/SinhaAnishKumar/BatNotify/releases"> Releases.✨</a>
+Go to<a href="https://github.com/SinhaAnishKumar/BatLife/releases"> Releases.✨</a>
 <br>
 <br>
 <b>Step 2 :-</b>
@@ -47,12 +47,12 @@ Navigate & click on the <code><b>Source Code (zip)</b></code> present on the bot
 <br>
 <b>Step 3 :-</b>
 <br>
-Finally save the file <code><b>BatNotify-1.0.zip</b></code> at desired location on your local computer.
+Finally save the file <code><b>BatLife-1.0.zip</b></code> at desired location on your local computer.
 <br>
 <br>
 <b>Step 4 :-</b>
 <br>
-Now, Extract the file <code><b>BatNotify-1.0.zip</b></code> to get <code><b>BatNotify.vbs</b></code> file
+Now, Extract the file <code><b>BatLife-1.0.zip</b></code> to get <code><b>BatLife.vbs</b></code> file
 <br>
 <b>Note :- </b> You can edit script according to your wish by opening it with notepad.
 <br>You can change the percentage level at which you want to be notified.
@@ -60,7 +60,7 @@ Now, Extract the file <code><b>BatNotify-1.0.zip</b></code> to get <code><b>BatN
 <br>
 <b>Step 5 :-</b>
 <br>
-Navigate to <code><b>BatNotify.vbs</b></code> and create a shortcut of the <code><b>BatNotify.vbs</b></code> file from the <code><b>right-click</b></code> menu.
+Navigate to <code><b>BatLife.vbs</b></code> and create a shortcut of the <code><b>BatLife.vbs</b></code> file from the <code><b>right-click</b></code> menu.
 <br>
 <br>
 <b>Step 6 :-</b>
@@ -74,7 +74,7 @@ Click <code><b>OK</b></code> to launch the Startup folder.
 <br>
 <b>Step 7 :-</b>
 <br>
-Now copy the <code><b>BatNotify.vbs – Shortcut</b></code> that you have just created to the Startup folder.<br>
+Now copy the <code><b>BatLife.vbs – Shortcut</b></code> that you have just created to the Startup folder.<br>
 Similarly, you can launch any app or script when the system starts by copying its shortcut to the Startup folder.
 <br>
 <br>
@@ -84,8 +84,8 @@ Just <code><b>Restart</b></code> your Laptop.
 <br>
 <br>
 From now onwards when your battery is charged you will get a notification saying <code><b>Battery Is Fully Charged</b></code> in a small window.<br>
-You can change the text to be displayed by editing the <code><b>BatNotify.vbs</b></code> file.<br><br>
-<b>Now BatNotify Is All Yours.💕
+You can change the text to be displayed by editing the <code><b>BatLife.vbs</b></code> file.<br><br>
+<b>Now BatLife Is All Yours.💕
 <br>
 Enjoy🎉</b>
 <br>
@@ -95,7 +95,7 @@ Enjoy🎉</b>
 
 # Important :-
 * Yes, you can fork this repo.😊
-* BatNotify is completely safe to use.  
+* BatLife is completely safe to use.  
 * This application is developed for learning and educational purposes only.
 * Try this application at your own risk, Developer will not be resposible for any mishappening.<br>
 
@@ -103,7 +103,7 @@ Enjoy🎉</b>
 
 * If you want to <code><b>Uninstall</b></code> the script just Press <code><b>Win + R</b></code> key  And type <code><b>shell:startup</b></code>.
 * Click <code><b>OK</b></code> to launch the Startup folder.
-* <code><b>Delete</b></code> the shortcut from here.
+* <code><b>Delete</b></code> the <code>BatLife.vbs shortcut</code> from here.
 * <code><b>Restart Your Laptop</b></code>
 
 <br>
